@@ -88,84 +88,84 @@ A quantitative comparison of leading hosted platforms and serverless cloud runti
 
 Explore the most capable open-source tools and frameworks for multimodal ingestion, processing, vector search, and workflow execution.
 
-*The list is strictly sorted descending by GitHub Star Count.*
+*The list is strictly sorted descending by GitHub Stars_Count.*
 
-- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
   **Production-grade LLM application and visual workflow orchestrator.** Combines visual DAG design, multimodal RAG pipelines, agent capabilities, model management, and observability in a single self-hostable platform. Supports image/document processing, prompt engineering, and API deployment. Apache 2.0 licensed.
 
-- **[LangChain](https://github.com/langchain-ai/langchain)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)  
+- **[LangChain](https://github.com/langchain-ai/langchain)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)  
   **Industry standard framework for developing applications powered by language and multimodal models.** Features standardized multimodal message blocks (images, audio, video, documents), tool invocation, document loaders, vector store integrations, and LangGraph for cyclical agentic pipelines. MIT licensed.
 
-- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![GitHub stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers)  
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![GitHub_Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers)  
   **Most modular, graph/pipeline-based visual execution engine for multimodal AI.** Enables declarative pipeline design for image generation, video synthesis, audio processing, and VLM inspection through node graphs. Supports custom pipelines, SDXL, Stable Video Diffusion, and arbitrary model orchestration. GPL-3.0 licensed.
 
-- **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
+- **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub_Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
   **High-throughput, memory-efficient serving engine for LLMs and Vision-Language Models (VLMs).** Powered by PagedAttention with state-of-the-art serving throughput. Natively supports multi-image, video, and audio input tensors for frontier open models (LLaVA, Qwen2-VL, Pixtral, Whisper). Apache 2.0 licensed.
 
-- **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
+- **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
   **Open-source RAG engine based on deep document understanding.** Orchestrates end-to-end multimodal document parsing across PDFs, spreadsheets, slides, and scanned images. Extracts complex layouts, tables, and charts into structured representations with grounded citations. Apache 2.0 licensed.
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   **Cutting-edge multi-agent orchestration framework.** Facilitates autonomous role-playing agents collaborating sequentially or hierarchically on complex multimodal workflows, research pipelines, code generation, and multi-step data transformations. MIT licensed.
 
-- **[LlamaIndex](https://github.com/run-llama/llama_index)** [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
+- **[LlamaIndex](https://github.com/run-llama/llama_index)** [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
   **Data framework for context-augmented multimodal LLM applications.** Features `MultiModalLLM` abstractions, `MultiModalVectorStoreIndex` for disjoint image/text embeddings, and `MultiModalRetriever` for cross-modal similarity search. Integrates with Chroma, Qdrant, Milvus, and Pixeltable. MIT licensed.
 
-- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
+- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
   **De-facto industry standard batch workflow orchestration platform.** Programmatically author, schedule, and monitor robust data pipelines with Python DAGs. Connects heterogenous compute backends, data lakes, GPU clusters, and ETL transformations at enterprise scale. Apache 2.0 licensed.
 
-- **[Milvus](https://github.com/milvus-io/milvus)** [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)  
+- **[Milvus](https://github.com/milvus-io/milvus)** [![GitHub_Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)  
   **Cloud-native, highly scalable open-source vector database.** Purpose-built for massive-scale similarity search over multimodal embeddings (images, audio, video frames, text). Features GPU-accelerated indexing (Knowhere), hybrid search, and cloud-native clustering. Apache 2.0 licensed.
 
-- **[Ray](https://github.com/ray-project/ray)** [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
+- **[Ray](https://github.com/ray-project/ray)** [![GitHub_Stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
   **Unified open-source distributed compute framework for scaling AI and Python workloads.** Powers distributed multimodal training (Ray Train), high-throughput data processing (Ray Data), distributed serving (Ray Serve), and hyperparameter tuning (Ray Tune). Runs seamlessly on Kubernetes or cloud VMs. Apache 2.0 licensed.
 
-- **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
+- **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
   **High-performance vector search engine and similarity database written in Rust.** Provides rich payload filtering, multi-vector representations, and dense/sparse cross-modal search for multimodal RAG, recommendation systems, and visual discovery. Apache 2.0 licensed.
 
-- **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)  
+- **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)  
   **End-to-end modular LLM framework with first-class multimodal file handling.** Component-driven architecture using `FileToFileContent` to ingest audio, images, and documents into unified pipelines. Day-0 support for Gemini Embedding 2 and cross-modal embedding spaces. Apache 2.0 licensed.
 
-- **[Prefect](https://github.com/PrefectHQ/prefect)** [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)  
+- **[Prefect](https://github.com/PrefectHQ/prefect)** [![GitHub_Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)  
   **Python-native workflow orchestration framework.** Empowers developers with dynamic task pipelines, automatic retries, concurrency controls, background worker pools, and event-driven triggers without rigid DAG boilerplate. Apache 2.0 licensed.
 
-- **[Pipecat](https://github.com/pipecat-ai/pipecat)** [![GitHub stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social&color=white)](https://github.com/pipecat-ai/pipecat/stargazers)  
+- **[Pipecat](https://github.com/pipecat-ai/pipecat)** [![GitHub_Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social&color=white)](https://github.com/pipecat-ai/pipecat/stargazers)  
   **Premier open-source framework for building real-time voice and multimodal conversational AI agents.** Implements a low-latency, frame-based pipeline routing audio, video, and text across speech-to-text, LLM, and text-to-speech processors with interruption handling and semantic voice activity detection. Apache 2.0 licensed.
 
-- **[Dagster](https://github.com/dagster-io/dagster)** [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)  
+- **[Dagster](https://github.com/dagster-io/dagster)** [![GitHub_Stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)  
   **Asset-centric orchestrator for machine learning, analytics, and data pipelines.** Declares software-defined assets with typed schemas, comprehensive data lineage, partition management, asset health checks, and integrated testing. Apache 2.0 licensed.
 
-- **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers)  
+- **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub_Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers)  
   **Foundational open-source ETL library for preprocessing raw documents.** Partitions, cleans, and chunks PDFs, scanned images, Word docs, and HTML into standardized NLP and embedding-ready structures. Apache 2.0 licensed.
 
-- **[txtai](https://github.com/neuml/txtai)** [![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social&color=white)](https://github.com/neuml/txtai/stargazers)  
+- **[txtai](https://github.com/neuml/txtai)** [![GitHub_Stars](https://img.shields.io/github/stars/neuml/txtai?style=social&color=white)](https://github.com/neuml/txtai/stargazers)  
   **All-in-one open-source embeddings database for semantic search, LLM orchestration, and workflows.** Unifies text, image, audio, and video vector search with transcription, captioning, translation, and autonomous multi-agent pipelines. Apache 2.0 licensed.
 
-- **[Metaflow](https://github.com/Netflix/metaflow)** [![GitHub stars](https://img.shields.io/github/stars/Netflix/metaflow?style=social&color=white)](https://github.com/Netflix/metaflow/stargazers)  
+- **[Metaflow](https://github.com/Netflix/metaflow)** [![GitHub_Stars](https://img.shields.io/github/stars/Netflix/metaflow?style=social&color=white)](https://github.com/Netflix/metaflow/stargazers)  
   **Human-centric ML and data science framework created by Netflix.** Seamlessly moves multimodal workflows from local prototype code to distributed cloud infrastructure (AWS/Azure/GCP/Kubernetes) with automatic versioning, artifact management, and dependency isolation. Apache 2.0 licensed.
 
-- **[BentoML](https://github.com/bentoml/BentoML)** [![GitHub stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)  
+- **[BentoML](https://github.com/bentoml/BentoML)** [![GitHub_Stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)  
   **Unified model serving and pipeline orchestration framework for AI applications.** Composes multiple models into complex multimodal serving DAGs (e.g., speech-to-text + VLM + image generation) with dynamic batching, GPU management, and production packaging. Apache 2.0 licensed.
 
-- **[Flyte](https://github.com/flyteorg/flyte)** [![GitHub stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social&color=white)](https://github.com/flyteorg/flyte/stargazers)  
+- **[Flyte](https://github.com/flyteorg/flyte)** [![GitHub_Stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social&color=white)](https://github.com/flyteorg/flyte/stargazers)  
   **Kubernetes-native workflow automation platform.** Provides strongly-typed task interfaces, step-level memoization/caching, deterministic reproducibility, and auto-scaling for mission-critical ML and data pipelines. Apache 2.0 licensed.
 
-- **[ClearML](https://github.com/clearml/clearml)** [![GitHub stars](https://img.shields.io/github/stars/clearml/clearml?style=social&color=white)](https://github.com/clearml/clearml/stargazers)  
+- **[ClearML](https://github.com/clearml/clearml)** [![GitHub_Stars](https://img.shields.io/github/stars/clearml/clearml?style=social&color=white)](https://github.com/clearml/clearml/stargazers)  
   **Open-source MLOps suite for experiment tracking, pipeline orchestration, and model deployment.** Automatically logs multimodal dataset versions, hyperparameter runs, pipeline DAGs, and compute resource utilization. Apache 2.0 licensed.
 
-- **[Daft](https://github.com/Eventual-Inc/Daft)** [![GitHub stars](https://img.shields.io/github/stars/Eventual-Inc/Daft?style=social&color=white)](https://github.com/Eventual-Inc/Daft/stargazers)  
+- **[Daft](https://github.com/Eventual-Inc/Daft)** [![GitHub_Stars](https://img.shields.io/github/stars/Eventual-Inc/Daft?style=social&color=white)](https://github.com/Eventual-Inc/Daft/stargazers)  
   **Distributed query engine and dataframe library optimized for multimodal AI workloads.** Built on Rust with an intuitive Python interface. Efficiently processes images, audio, video frames, and tabular records with built-in model transformations and direct connectors to S3, GCS, Iceberg, and Hugging Face. Apache 2.0 licensed.
 
-- **[Beam (beta9)](https://github.com/beam-cloud/beta9)** [![GitHub stars](https://img.shields.io/github/stars/beam-cloud/beta9?style=social&color=white)](https://github.com/beam-cloud/beta9/stargazers)  
+- **[Beam (beta9)](https://github.com/beam-cloud/beta9)** [![GitHub_Stars](https://img.shields.io/github/stars/beam-cloud/beta9?style=social&color=white)](https://github.com/beam-cloud/beta9/stargazers)  
   **Open-source serverless platform alternative to Modal for AI workloads.** Runs GPU inference, background task queues, and isolated code execution sandboxes with sub-second boot times, memory/filesystem snapshots, and zero vendor lock-in. Apache 2.0 licensed.
 
-- **[Pixeltable](https://github.com/pixeltable/pixeltable)** [![GitHub stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=social&color=white)](https://github.com/pixeltable/pixeltable/stargazers)  
+- **[Pixeltable](https://github.com/pixeltable/pixeltable)** [![GitHub_Stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=social&color=white)](https://github.com/pixeltable/pixeltable/stargazers)  
   **Declarative multimodal AI data infrastructure.** Replaces ad-hoc ingestion scripts with data tables that automatically calculate embedding indices, video frame transformations, and model inferences incrementally as new raw data arrives. Apache 2.0 licensed.
 
-- **[OpenModal](https://github.com/akhatua2/openmodal)** [![GitHub stars](https://img.shields.io/github/stars/akhatua2/openmodal?style=social&color=white)](https://github.com/akhatua2/openmodal/stargazers)  
+- **[OpenModal](https://github.com/akhatua2/openmodal)** [![GitHub_Stars](https://img.shields.io/github/stars/akhatua2/openmodal?style=social&color=white)](https://github.com/akhatua2/openmodal/stargazers)  
   **Deploy and manage Modal-like serverless GPU compute workloads on private cloud infrastructure.** Open-source, cloud-agnostic execution runtime for teams seeking serverless Python agility with strict data sovereignty. Apache 2.0 licensed.
 
-- **[OmniaChain](https://github.com/RamonBritoDev/omniachain)** [![GitHub stars](https://img.shields.io/github/stars/RamonBritoDev/omniachain?style=social&color=white)](https://github.com/RamonBritoDev/omniachain/stargazers)  
+- **[OmniaChain](https://github.com/RamonBritoDev/omniachain)** [![GitHub_Stars](https://img.shields.io/github/stars/RamonBritoDev/omniachain?style=social&color=white)](https://github.com/RamonBritoDev/omniachain/stargazers)  
   **Async-first multimodal agent framework.** Features native support for text, PDF, image, audio, video, CSV, and code inputs with multiple model providers, native Model Context Protocol (MCP) support, and configurable supervisor/planner agent roles. MIT licensed.
 
 ---
@@ -232,7 +232,7 @@ Contributions from the developer and AI engineering community are warmly welcome
 2. **Add or modify entries** in `README.md` maintaining consistent markdown formatting.
 3. **Include essential details**:
    - For **SaaS**: Accurate pricing tiers, specific free trial / free tier limits, company valuation/revenue, and primary architectural strengths.
-   - For **Open-Source**: Valid repository URL, social star badge linking to `/stargazers`, concise description, and license type.
+   - For **Open-Source**: Valid repository URL, social Stars_Badge linking to `/stargazers`, concise description, and license type.
 4. **Submit a Pull Request** with a concise description of your changes.
 
 Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
